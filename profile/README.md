@@ -1,11 +1,39 @@
-## Hi there 👋
-
 ![banner](https://i.postimg.cc/hvvG0v4Y/Pics-Art-25-04-14-12-02-27-558.png)
 
-**Here are some ideas to get you started:**
+# UzStack – O'zbekiston Dasturchilar Hamjamiyati
 
-🙋‍♀️ A short introduction - what is your organization all about?
-❤️ Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+**UzStack** — bu O'zbekistonlik dasturchilar uchun yaratilgan ochiq hamjamiyat bo‘lib, maqsadimiz texnologiyalar, bilim va tajriba almashish orqali mahalliy IT sohasini rivojlantirishdir.
+
+## 🎯 Maqsadimiz
+
+- 🇺🇿 O'zbek dasturchilarini bir platformaga jamlash
+- 🤝 Real va foydali Open Source loyihalarni yaratish
+- 📚 Tajriba almashish va o‘zaro o‘rganishga imkon berish
+- 👥 Mentorlardan yangi boshlovchilarga yordam ko‘rsatish
+- 🌐 Mahalliy IT ekotizimini global darajaga olib chiqish
+
+## 🚀 Nimalar qilamiz?
+
+- Open Source loyihalar ustida jamoaviy ishlaymiz
+- Texnik meetuplar, vebinarlar va workshoplar o‘tkazamiz
+- Yangi g‘oyalarni birgalikda ishlab chiqamiz va sinovdan o‘tkazamiz
+- Har kimga o‘z hissasini qo‘shish imkonini beramiz — siz kod yozishingiz, test qilishingiz yoki hujjatlashtirish bilan shug‘ullanishingiz mumkin
+
+## 🧩 Qanday hissa qo‘shsam bo‘ladi?
+
+1. `git clone` orqali loyihalarni yuklab oling
+2. Ishtirok etmoqchi bo‘lgan bo‘limni tanlang (backend, frontend, docs, test, devops va h.k.)
+3. `CONTRIBUTING.md` faylini o‘qing
+4. Pull request yuboring
+5. Yoki bizga yangi g‘oya taklif qiling!
+
+## 💬 Aloqa
+
+- Telegram: [@UzStack](https://t.me/UzStack)
+- GitHub Issues orqali savollar va takliflar bilan murojaat qiling
+
+---
+
+🚨 Har bir hissa — bu O‘zbek IT jamoasi uchun katta qadam. O‘zingizni sinab ko‘ring va o‘z hissangizni qo‘shing!
+
+

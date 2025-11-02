@@ -29,7 +29,6 @@
 
 ## 💬 Aloqa
 
-- Telegram: [@UzStack](https://t.me/UzStack)
 - GitHub Issues orqali savollar va takliflar bilan murojaat qiling
 
 ---
